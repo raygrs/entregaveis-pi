@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    width: 800px;
+    height: 800px;
+    background-color: rgb(249, 249, 249);
+}
+
+.divA {
+    margin: 20px;
+    background-color: #56235c;
+    width: 300px;
+    height: 300px;
+}
+
+.divB {
+    background-color: #623264;
+    width: 70%;
+    height: 50%
+}
+
+p {
+    color: #ffffff;
+    background-color: #834f8a;
+    font-size: 19px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+.divD {
+    margin: 20px;
+    width: 50%;
+    height: 30%;
+    background-color: rgb(90, 135, 231);
+}
+
+.divE {
+    width: 60%;
+    height: 60%;
+    background-color: rgb(117, 119, 190);
+}
