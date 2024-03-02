@@ -1,2 +1,2 @@
 # entregaveis-pi
-Nesse repositório irão estar todos os entregáveis de pesquisa e inovação do primeiro semestre de ADS
+Nesse repositório estará todos os entregáveis de pesquisa e inovação do primeiro semestre de ADS na SPTECH
